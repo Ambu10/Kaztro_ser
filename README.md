@@ -4,10 +4,10 @@
 <span class="avatar"><img height='320' src="ᴀsʜᴜᴛᴛʏ ʙᴏᴛ ɢʀᴘ🤖 20220518_172413.jpg"> </a></span> 
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Author-SPARROW-Ambu100/Ajfx?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ambu10"><img title="Author" src="https://img.shields.io/badge/Author-SPARROW-Ambu100/Ajfx?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/Ambu10">sᴘᴀʀʀᴏᴡ</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/Ambu10"> sᴘᴀʀʀᴏᴡ</a>
     <br>
        |ᴄᴏᴘʏʀɪɢʜᴛ     ʀᴇsᴇʀᴠᴇᴅ |
     <br> 
@@ -25,7 +25,7 @@
 
 * 4 [`FORK`](https://github.com/Ambu10/Kaztro_ser/fork)
 
-* 5 https://heroku.com/deploy?template=https://github.com/Ambu10/Kaztro_ser  copy this url and change Aj-fx with your github username and go<br>
+* 5 https://heroku.com/deploy?template=https://github.com/Ambu10/Kaztro_ser  copy this url and change Ambu10 with your github username and go<br>
 
  <p align="center">
   <a href="httsp://github.com/Ambu10/Kaztro_ser">
