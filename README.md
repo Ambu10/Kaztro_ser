@@ -1,16 +1,15 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝐖𝐄𝐋𝐂𝐎𝐌+𝐓𝐎+ASHUTTY+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+SPARROW)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝐖𝐄𝐋𝐂𝐎𝐌+𝐓𝐎+𝘼𝙎𝙃𝙐𝙏𝙏𝙔+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+SPARROW)](https://git.io/typing-svg)
  
   <p align="center">
-<span class="avatar"><img height='320' src="https://i.imgur.com/GDPW1qg.jpeg"> </a></span> 
+<span class="avatar"><img height='320' src="ᴀsʜᴜᴛᴛʏ ʙᴏᴛ ɢʀᴘ🤖 20220518_172413.jpg"> </a></span> 
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Author-SPARROW-Ajfxv1/Ajfx?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Author-SPARROW-Ambu100/Ajfx?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/Ambu10">SPARROW</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/Ambu10">sᴘᴀʀʀᴏᴡ</a>
     <br>
-       |COPYRIGHT
-       RESERVED |
+       |ᴄᴏᴘʏʀɪɢʜᴛ     ʀᴇsᴇʀᴠᴇᴅ |
     <br> 
 </p>
 
